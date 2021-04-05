@@ -1,5 +1,5 @@
 # Hi there 👋,
-![Student Developer](https://github.com/shreyaskhadapkar/shreyaskhadapkar/blob/main/Shreyas%20Profile%20Banner.png)
+![Student Developer](https://github.com/shreyaskhadapkar/shreyaskhadapkar/blob/main/Shreyas%20Khadapkar%20(1).png)
 
 An independent and self-motivated individual, currently pursuing my Bachelors in Engineering. I am always keen to learn new things. 
 Have a problem? Let's code it out!!
