@@ -25,8 +25,6 @@ Skills:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyaskhadapkar)  
 
-![GitHub metrics](https://metrics.lecoq.io/shreyaskhadapkar)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shreyaskhadapkar)  
 
 ![Profile views](https://gpvc.arturio.dev/shreyaskhadapkar)  
