@@ -1,5 +1,4 @@
-### Hi there 👋, Shreyas Khadapkar
-#### Student Developer
+# Hi there 👋,
 ![Student Developer](https://github.com/shreyaskhadapkar/shreyaskhadapkar/blob/main/Shreyas%20Profile%20Banner.png)
 
 An independent and self-motivated individual, currently pursuing my Bachelors in Engineering. I am always keen to learn new things. 
